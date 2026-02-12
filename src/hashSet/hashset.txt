@@ -1,0 +1,3 @@
+Hash set is used to remove the duplicate in array
+Hash set :
+IN
