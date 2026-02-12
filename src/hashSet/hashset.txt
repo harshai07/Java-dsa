@@ -1,3 +1,7 @@
 Hash set is used to remove the duplicate in array
-Hash set :
-IN
+Hash set because of this time complexity used the hash set  :
+    |       Hash set              vs         Array              |
+    | 1.Inset/Add -> O(1)         |        O(1)                 |
+    | 2.Serch/contains -> O(1)    |        0(n)                 |
+    | 3.Delete/Remove -> O(1)     |        O(n)                 |
+    ______________________________________________________________
