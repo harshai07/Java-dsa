@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/harshai07/Java-dsa/tree/master/0371-sum-of-two-integers) |
+## Array
+|  |
+| ------- |
+| [0907-koko-eating-bananas](https://github.com/harshai07/Java-dsa/tree/master/0907-koko-eating-bananas) |
+## Binary Search
+|  |
+| ------- |
+| [0907-koko-eating-bananas](https://github.com/harshai07/Java-dsa/tree/master/0907-koko-eating-bananas) |
 <!---LeetCode Topics End-->
