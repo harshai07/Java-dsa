@@ -12,11 +12,13 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Array
 |  |
 | ------- |
+| [0853-most-profit-assigning-work](https://github.com/harshai07/Java-dsa/tree/master/0853-most-profit-assigning-work) |
 | [0907-koko-eating-bananas](https://github.com/harshai07/Java-dsa/tree/master/0907-koko-eating-bananas) |
 | [1829-maximum-units-on-a-truck](https://github.com/harshai07/Java-dsa/tree/master/1829-maximum-units-on-a-truck) |
 ## Binary Search
 |  |
 | ------- |
+| [0853-most-profit-assigning-work](https://github.com/harshai07/Java-dsa/tree/master/0853-most-profit-assigning-work) |
 | [0907-koko-eating-bananas](https://github.com/harshai07/Java-dsa/tree/master/0907-koko-eating-bananas) |
 ## Hash Table
 |  |
@@ -33,9 +35,15 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Greedy
 |  |
 | ------- |
+| [0853-most-profit-assigning-work](https://github.com/harshai07/Java-dsa/tree/master/0853-most-profit-assigning-work) |
 | [1829-maximum-units-on-a-truck](https://github.com/harshai07/Java-dsa/tree/master/1829-maximum-units-on-a-truck) |
 ## Sorting
 |  |
 | ------- |
+| [0853-most-profit-assigning-work](https://github.com/harshai07/Java-dsa/tree/master/0853-most-profit-assigning-work) |
 | [1829-maximum-units-on-a-truck](https://github.com/harshai07/Java-dsa/tree/master/1829-maximum-units-on-a-truck) |
+## Two Pointers
+|  |
+| ------- |
+| [0853-most-profit-assigning-work](https://github.com/harshai07/Java-dsa/tree/master/0853-most-profit-assigning-work) |
 <!---LeetCode Topics End-->
