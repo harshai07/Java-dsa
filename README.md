@@ -45,5 +45,18 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Two Pointers
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/harshai07/Java-dsa/tree/master/0234-palindrome-linked-list) |
 | [0853-most-profit-assigning-work](https://github.com/harshai07/Java-dsa/tree/master/0853-most-profit-assigning-work) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/harshai07/Java-dsa/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/harshai07/Java-dsa/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/harshai07/Java-dsa/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
