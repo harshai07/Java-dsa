@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/harshai07/Java-dsa/tree/master/0371-sum-of-two-integers) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/harshai07/Java-dsa/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1800-concatenation-of-consecutive-binary-numbers](https://github.com/harshai07/Java-dsa/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/harshai07/Java-dsa/tree/master/0371-sum-of-two-integers) |
+| [1800-concatenation-of-consecutive-binary-numbers](https://github.com/harshai07/Java-dsa/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 ## Array
 |  |
 | ------- |
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/harshai07/Java-dsa/tree/master/0148-sort-list) |
+## Simulation
+|  |
+| ------- |
+| [1800-concatenation-of-consecutive-binary-numbers](https://github.com/harshai07/Java-dsa/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 <!---LeetCode Topics End-->
