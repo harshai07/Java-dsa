@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/harshai07/Java-dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/harshai07/Java-dsa/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -81,4 +82,16 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/harshai07/Java-dsa/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/harshai07/Java-dsa/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/harshai07/Java-dsa/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/harshai07/Java-dsa/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
