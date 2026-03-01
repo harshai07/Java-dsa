@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harshai07/Java-dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/harshai07/Java-dsa/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Backtracking
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0853-most-profit-assigning-work](https://github.com/harshai07/Java-dsa/tree/master/0853-most-profit-assigning-work) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/harshai07/Java-dsa/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1829-maximum-units-on-a-truck](https://github.com/harshai07/Java-dsa/tree/master/1829-maximum-units-on-a-truck) |
 ## Sorting
 |  |
