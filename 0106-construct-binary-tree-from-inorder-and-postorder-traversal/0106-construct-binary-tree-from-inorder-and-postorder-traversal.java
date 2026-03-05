@@ -13,28 +13,30 @@
  *     }
  * }
  */
-class Solution {
+public class Solution {
+    private int postIdx;
+    private int inIdx;
+
     public TreeNode buildTree(int[] inorder, int[] postorder) {
-        if(postorder.length==0||inorder.length==0) return null;
-        TreeNode root= new TreeNode(postorder[postorder.length-1]);//in the postorder last element will be the root element 
-        int mid=0;
-        for(int i=0; i<inorder.length; i++){
-            if(inorder[i]==postorder[postorder.length-1]){
-                mid=i;
-                break;
-            }
-            
+        postIdx = postorder.length - 1;
+        inIdx = inorder.length - 1;
+
+        return dfs(postorder, inorder, Integer.MAX_VALUE);
+    }
+
+    private TreeNode dfs(int[] postorder, int[] inorder, int limit) {
+        if (postIdx < 0) {
+            return null;
         }
-        //build left sub tree
-            root.left= buildTree(
-                Arrays.copyOfRange(inorder , 0,mid),
-                Arrays.copyOfRange(postorder,0,mid)
-                );
-            root.right=buildTree(
-                Arrays.copyOfRange(inorder, mid+1, inorder.length),
-                Arrays.copyOfRange(postorder , mid, postorder.length-1)
-            );
+
+        if (inorder[inIdx] == limit) {
+            inIdx--;
+            return null;
+        }
+
+        TreeNode root = new TreeNode(postorder[postIdx--]);
+        root.right = dfs(postorder, inorder, root.val);
+        root.left = dfs(postorder, inorder, limit);
         return root;
-        
     }
 }
