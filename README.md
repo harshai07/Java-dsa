@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harshai07/Java-dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harshai07/Java-dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0617-merge-two-binary-trees](https://github.com/harshai07/Java-dsa/tree/master/0617-merge-two-binary-trees) |
+| [0975-range-sum-of-bst](https://github.com/harshai07/Java-dsa/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harshai07/Java-dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harshai07/Java-dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0617-merge-two-binary-trees](https://github.com/harshai07/Java-dsa/tree/master/0617-merge-two-binary-trees) |
+| [0975-range-sum-of-bst](https://github.com/harshai07/Java-dsa/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harshai07/Java-dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harshai07/Java-dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0617-merge-two-binary-trees](https://github.com/harshai07/Java-dsa/tree/master/0617-merge-two-binary-trees) |
+| [0975-range-sum-of-bst](https://github.com/harshai07/Java-dsa/tree/master/0975-range-sum-of-bst) |
 ## Matrix
 |  |
 | ------- |
@@ -159,4 +162,5 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshai07/Java-dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harshai07/Java-dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harshai07/Java-dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/harshai07/Java-dsa/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
