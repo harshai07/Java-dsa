@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0110-balanced-binary-tree](https://github.com/harshai07/Java-dsa/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshai07/Java-dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harshai07/Java-dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harshai07/Java-dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0617-merge-two-binary-trees](https://github.com/harshai07/Java-dsa/tree/master/0617-merge-two-binary-trees) |
 ## Depth-First Search
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0110-balanced-binary-tree](https://github.com/harshai07/Java-dsa/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshai07/Java-dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harshai07/Java-dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harshai07/Java-dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0617-merge-two-binary-trees](https://github.com/harshai07/Java-dsa/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0110-balanced-binary-tree](https://github.com/harshai07/Java-dsa/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshai07/Java-dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harshai07/Java-dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harshai07/Java-dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0617-merge-two-binary-trees](https://github.com/harshai07/Java-dsa/tree/master/0617-merge-two-binary-trees) |
 ## Matrix
 |  |
@@ -155,4 +158,5 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshai07/Java-dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harshai07/Java-dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harshai07/Java-dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
