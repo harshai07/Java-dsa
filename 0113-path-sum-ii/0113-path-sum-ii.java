@@ -13,17 +13,17 @@
  *     }
  * }
  */
-import java.util.*;
+
 
 public class Solution {
 
     public List<List<Integer>> pathSum(TreeNode root, int targetSum) {
         List<List<Integer>> res = new ArrayList<>();
-        dfs(root, targetSum, new ArrayList<>(), res);
+        preorder(root, targetSum, new ArrayList<>(), res);
         return res;
     }
 
-    private void dfs(TreeNode node, int target, List<Integer> path, List<List<Integer>> res) {
+    private void preorder(TreeNode node, int target, List<Integer> path, List<List<Integer>> res) {
         if (node == null) return;
 
         path.add(node.val);
@@ -33,8 +33,8 @@ public class Solution {
             res.add(new ArrayList<>(path));
         }
 
-        dfs(node.left, target, path, res);
-        dfs(node.right, target, path, res);
+        preorder(node.left, target, path, res);
+        preorder(node.right, target, path, res);
 
         path.remove(path.size() - 1); // backtrack
     }
