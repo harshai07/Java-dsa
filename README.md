@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/harshai07/Java-dsa/tree/master/0371-sum-of-two-integers) |
+| [0679-24-game](https://github.com/harshai07/Java-dsa/tree/master/0679-24-game) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/harshai07/Java-dsa/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/harshai07/Java-dsa/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/harshai07/Java-dsa/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/harshai07/Java-dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshai07/Java-dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0406-queue-reconstruction-by-height](https://github.com/harshai07/Java-dsa/tree/master/0406-queue-reconstruction-by-height) |
+| [0679-24-game](https://github.com/harshai07/Java-dsa/tree/master/0679-24-game) |
 | [0853-most-profit-assigning-work](https://github.com/harshai07/Java-dsa/tree/master/0853-most-profit-assigning-work) |
 | [0907-koko-eating-bananas](https://github.com/harshai07/Java-dsa/tree/master/0907-koko-eating-bananas) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/harshai07/Java-dsa/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harshai07/Java-dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0113-path-sum-ii](https://github.com/harshai07/Java-dsa/tree/master/0113-path-sum-ii) |
+| [0679-24-game](https://github.com/harshai07/Java-dsa/tree/master/0679-24-game) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/harshai07/Java-dsa/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2107-find-unique-binary-string](https://github.com/harshai07/Java-dsa/tree/master/2107-find-unique-binary-string) |
 ## Greedy
