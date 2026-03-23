@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harshai07/Java-dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/harshai07/Java-dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshai07/Java-dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/harshai07/Java-dsa/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0406-queue-reconstruction-by-height](https://github.com/harshai07/Java-dsa/tree/master/0406-queue-reconstruction-by-height) |
 | [0679-24-game](https://github.com/harshai07/Java-dsa/tree/master/0679-24-game) |
 | [0853-most-profit-assigning-work](https://github.com/harshai07/Java-dsa/tree/master/0853-most-profit-assigning-work) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/harshai07/Java-dsa/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1014-k-closest-points-to-origin](https://github.com/harshai07/Java-dsa/tree/master/1014-k-closest-points-to-origin) |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/harshai07/Java-dsa/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/harshai07/Java-dsa/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
