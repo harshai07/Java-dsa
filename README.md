@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1014-k-closest-points-to-origin](https://github.com/harshai07/Java-dsa/tree/master/1014-k-closest-points-to-origin) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/harshai07/Java-dsa/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/harshai07/Java-dsa/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
+| [3215-matrix-similarity-after-cyclic-shifts](https://github.com/harshai07/Java-dsa/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/harshai07/Java-dsa/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Bit Manipulation
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1704-special-positions-in-a-binary-matrix](https://github.com/harshai07/Java-dsa/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1829-maximum-units-on-a-truck](https://github.com/harshai07/Java-dsa/tree/master/1829-maximum-units-on-a-truck) |
 | [2107-find-unique-binary-string](https://github.com/harshai07/Java-dsa/tree/master/2107-find-unique-binary-string) |
+| [3215-matrix-similarity-after-cyclic-shifts](https://github.com/harshai07/Java-dsa/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/harshai07/Java-dsa/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3849-equal-sum-grid-partition-i](https://github.com/harshai07/Java-dsa/tree/master/3849-equal-sum-grid-partition-i) |
 ## Binary Search
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/harshai07/Java-dsa/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/harshai07/Java-dsa/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
+| [3215-matrix-similarity-after-cyclic-shifts](https://github.com/harshai07/Java-dsa/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 ## Tree
 |  |
 | ------- |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/harshai07/Java-dsa/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/harshai07/Java-dsa/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/harshai07/Java-dsa/tree/master/1704-special-positions-in-a-binary-matrix) |
+| [3215-matrix-similarity-after-cyclic-shifts](https://github.com/harshai07/Java-dsa/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3849-equal-sum-grid-partition-i](https://github.com/harshai07/Java-dsa/tree/master/3849-equal-sum-grid-partition-i) |
 ## Breadth-First Search
 |  |
