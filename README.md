@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/harshai07/Java-dsa/tree/master/0023-merge-k-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/harshai07/Java-dsa/tree/master/0092-reverse-linked-list-ii) |
 | [0148-sort-list](https://github.com/harshai07/Java-dsa/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/harshai07/Java-dsa/tree/master/0203-remove-linked-list-elements) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/harshai07/Java-dsa/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harshai07/Java-dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/harshai07/Java-dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshai07/Java-dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/harshai07/Java-dsa/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/harshai07/Java-dsa/tree/master/0148-sort-list) |
 ## Simulation
 |  |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/harshai07/Java-dsa/tree/master/0023-merge-k-sorted-lists) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/harshai07/Java-dsa/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1014-k-closest-points-to-origin](https://github.com/harshai07/Java-dsa/tree/master/1014-k-closest-points-to-origin) |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/harshai07/Java-dsa/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
