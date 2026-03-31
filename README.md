@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2107-find-unique-binary-string](https://github.com/harshai07/Java-dsa/tree/master/2107-find-unique-binary-string) |
 | [2708-find-the-string-with-lcp](https://github.com/harshai07/Java-dsa/tree/master/2708-find-the-string-with-lcp) |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/harshai07/Java-dsa/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
+| [3770-lexicographically-smallest-generated-string](https://github.com/harshai07/Java-dsa/tree/master/3770-lexicographically-smallest-generated-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1829-maximum-units-on-a-truck](https://github.com/harshai07/Java-dsa/tree/master/1829-maximum-units-on-a-truck) |
 | [2708-find-the-string-with-lcp](https://github.com/harshai07/Java-dsa/tree/master/2708-find-the-string-with-lcp) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/harshai07/Java-dsa/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3770-lexicographically-smallest-generated-string](https://github.com/harshai07/Java-dsa/tree/master/3770-lexicographically-smallest-generated-string) |
 ## Sorting
 |  |
 | ------- |
@@ -267,4 +269,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [2708-find-the-string-with-lcp](https://github.com/harshai07/Java-dsa/tree/master/2708-find-the-string-with-lcp) |
+## String Matching
+|  |
+| ------- |
+| [3770-lexicographically-smallest-generated-string](https://github.com/harshai07/Java-dsa/tree/master/3770-lexicographically-smallest-generated-string) |
 <!---LeetCode Topics End-->
