@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/harshai07/Java-dsa/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/harshai07/Java-dsa/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3849-equal-sum-grid-partition-i](https://github.com/harshai07/Java-dsa/tree/master/3849-equal-sum-grid-partition-i) |
+| [4115-minimum-distance-between-three-equal-elements-i](https://github.com/harshai07/Java-dsa/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0217-contains-duplicate](https://github.com/harshai07/Java-dsa/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/harshai07/Java-dsa/tree/master/0242-valid-anagram) |
 | [2107-find-unique-binary-string](https://github.com/harshai07/Java-dsa/tree/master/2107-find-unique-binary-string) |
+| [4115-minimum-distance-between-three-equal-elements-i](https://github.com/harshai07/Java-dsa/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 ## String
 |  |
 | ------- |
