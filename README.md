@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harshai07/Java-dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0242-valid-anagram](https://github.com/harshai07/Java-dsa/tree/master/0242-valid-anagram) |
+| [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/harshai07/Java-dsa/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/harshai07/Java-dsa/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/harshai07/Java-dsa/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/harshai07/Java-dsa/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Dynamic Programming
 |  |
 | ------- |
+| [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/harshai07/Java-dsa/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2708-find-the-string-with-lcp](https://github.com/harshai07/Java-dsa/tree/master/2708-find-the-string-with-lcp) |
 ## Union-Find
 |  |
