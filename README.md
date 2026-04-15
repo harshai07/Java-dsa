@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1704-special-positions-in-a-binary-matrix](https://github.com/harshai07/Java-dsa/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1829-maximum-units-on-a-truck](https://github.com/harshai07/Java-dsa/tree/master/1829-maximum-units-on-a-truck) |
 | [2107-find-unique-binary-string](https://github.com/harshai07/Java-dsa/tree/master/2107-find-unique-binary-string) |
+| [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/harshai07/Java-dsa/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2708-find-the-string-with-lcp](https://github.com/harshai07/Java-dsa/tree/master/2708-find-the-string-with-lcp) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/harshai07/Java-dsa/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/harshai07/Java-dsa/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/harshai07/Java-dsa/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/harshai07/Java-dsa/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2107-find-unique-binary-string](https://github.com/harshai07/Java-dsa/tree/master/2107-find-unique-binary-string) |
+| [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/harshai07/Java-dsa/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2708-find-the-string-with-lcp](https://github.com/harshai07/Java-dsa/tree/master/2708-find-the-string-with-lcp) |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/harshai07/Java-dsa/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3770-lexicographically-smallest-generated-string](https://github.com/harshai07/Java-dsa/tree/master/3770-lexicographically-smallest-generated-string) |
