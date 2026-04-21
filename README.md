@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1704-special-positions-in-a-binary-matrix](https://github.com/harshai07/Java-dsa/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/harshai07/Java-dsa/tree/master/1757-minimum-jumps-to-reach-home) |
 | [1829-maximum-units-on-a-truck](https://github.com/harshai07/Java-dsa/tree/master/1829-maximum-units-on-a-truck) |
+| [1840-minimize-hamming-distance-after-swap-operations](https://github.com/harshai07/Java-dsa/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/harshai07/Java-dsa/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2107-find-unique-binary-string](https://github.com/harshai07/Java-dsa/tree/master/2107-find-unique-binary-string) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/harshai07/Java-dsa/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0513-find-bottom-left-tree-value](https://github.com/harshai07/Java-dsa/tree/master/0513-find-bottom-left-tree-value) |
 | [0617-merge-two-binary-trees](https://github.com/harshai07/Java-dsa/tree/master/0617-merge-two-binary-trees) |
 | [0975-range-sum-of-bst](https://github.com/harshai07/Java-dsa/tree/master/0975-range-sum-of-bst) |
+| [1840-minimize-hamming-distance-after-swap-operations](https://github.com/harshai07/Java-dsa/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 ## Binary Tree
 |  |
 | ------- |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Union-Find
 |  |
 | ------- |
+| [1840-minimize-hamming-distance-after-swap-operations](https://github.com/harshai07/Java-dsa/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [2708-find-the-string-with-lcp](https://github.com/harshai07/Java-dsa/tree/master/2708-find-the-string-with-lcp) |
 ## String Matching
 |  |
