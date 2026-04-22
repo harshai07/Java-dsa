@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/harshai07/Java-dsa/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/harshai07/Java-dsa/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2107-find-unique-binary-string](https://github.com/harshai07/Java-dsa/tree/master/2107-find-unique-binary-string) |
+| [2550-words-within-two-edits-of-dictionary](https://github.com/harshai07/Java-dsa/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/harshai07/Java-dsa/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2708-find-the-string-with-lcp](https://github.com/harshai07/Java-dsa/tree/master/2708-find-the-string-with-lcp) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/harshai07/Java-dsa/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/harshai07/Java-dsa/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/harshai07/Java-dsa/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2107-find-unique-binary-string](https://github.com/harshai07/Java-dsa/tree/master/2107-find-unique-binary-string) |
+| [2550-words-within-two-edits-of-dictionary](https://github.com/harshai07/Java-dsa/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/harshai07/Java-dsa/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2708-find-the-string-with-lcp](https://github.com/harshai07/Java-dsa/tree/master/2708-find-the-string-with-lcp) |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/harshai07/Java-dsa/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -303,4 +305,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/harshai07/Java-dsa/tree/master/0070-climbing-stairs) |
+## Trie
+|  |
+| ------- |
+| [2550-words-within-two-edits-of-dictionary](https://github.com/harshai07/Java-dsa/tree/master/2550-words-within-two-edits-of-dictionary) |
 <!---LeetCode Topics End-->
