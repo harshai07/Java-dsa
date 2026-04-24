@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/harshai07/Java-dsa/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2708-find-the-string-with-lcp](https://github.com/harshai07/Java-dsa/tree/master/2708-find-the-string-with-lcp) |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/harshai07/Java-dsa/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
+| [3019-furthest-point-from-origin](https://github.com/harshai07/Java-dsa/tree/master/3019-furthest-point-from-origin) |
 | [3770-lexicographically-smallest-generated-string](https://github.com/harshai07/Java-dsa/tree/master/3770-lexicographically-smallest-generated-string) |
 ## Backtracking
 |  |
@@ -318,4 +319,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/harshai07/Java-dsa/tree/master/0062-unique-paths) |
+## Counting
+|  |
+| ------- |
+| [3019-furthest-point-from-origin](https://github.com/harshai07/Java-dsa/tree/master/3019-furthest-point-from-origin) |
 <!---LeetCode Topics End-->
