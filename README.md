@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1127-last-stone-weight](https://github.com/harshai07/Java-dsa/tree/master/1127-last-stone-weight) |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/harshai07/Java-dsa/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/harshai07/Java-dsa/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/harshai07/Java-dsa/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/harshai07/Java-dsa/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/harshai07/Java-dsa/tree/master/1757-minimum-jumps-to-reach-home) |
 | [1829-maximum-units-on-a-truck](https://github.com/harshai07/Java-dsa/tree/master/1829-maximum-units-on-a-truck) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0513-find-bottom-left-tree-value](https://github.com/harshai07/Java-dsa/tree/master/0513-find-bottom-left-tree-value) |
 | [0617-merge-two-binary-trees](https://github.com/harshai07/Java-dsa/tree/master/0617-merge-two-binary-trees) |
 | [0975-range-sum-of-bst](https://github.com/harshai07/Java-dsa/tree/master/0975-range-sum-of-bst) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/harshai07/Java-dsa/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/harshai07/Java-dsa/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 ## Binary Tree
 |  |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/harshai07/Java-dsa/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/harshai07/Java-dsa/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/harshai07/Java-dsa/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/harshai07/Java-dsa/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [2708-find-the-string-with-lcp](https://github.com/harshai07/Java-dsa/tree/master/2708-find-the-string-with-lcp) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/harshai07/Java-dsa/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0226-invert-binary-tree](https://github.com/harshai07/Java-dsa/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/harshai07/Java-dsa/tree/master/0513-find-bottom-left-tree-value) |
 | [0617-merge-two-binary-trees](https://github.com/harshai07/Java-dsa/tree/master/0617-merge-two-binary-trees) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/harshai07/Java-dsa/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/harshai07/Java-dsa/tree/master/1757-minimum-jumps-to-reach-home) |
 ## Binary Search Tree
 |  |
@@ -306,6 +310,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Union-Find
 |  |
 | ------- |
+| [1663-detect-cycles-in-2d-grid](https://github.com/harshai07/Java-dsa/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/harshai07/Java-dsa/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [2708-find-the-string-with-lcp](https://github.com/harshai07/Java-dsa/tree/master/2708-find-the-string-with-lcp) |
 ## String Matching
