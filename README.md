@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/harshai07/Java-dsa/tree/master/0063-unique-paths-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harshai07/Java-dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/harshai07/Java-dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshai07/Java-dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/harshai07/Java-dsa/tree/master/0063-unique-paths-ii) |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/harshai07/Java-dsa/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/harshai07/Java-dsa/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/harshai07/Java-dsa/tree/master/1663-detect-cycles-in-2d-grid) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/harshai07/Java-dsa/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/harshai07/Java-dsa/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/harshai07/Java-dsa/tree/master/0070-climbing-stairs) |
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/harshai07/Java-dsa/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2708-find-the-string-with-lcp](https://github.com/harshai07/Java-dsa/tree/master/2708-find-the-string-with-lcp) |
