@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0062-unique-paths](https://github.com/harshai07/Java-dsa/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/harshai07/Java-dsa/tree/master/0070-climbing-stairs) |
 | [0371-sum-of-two-integers](https://github.com/harshai07/Java-dsa/tree/master/0371-sum-of-two-integers) |
+| [0396-rotate-function](https://github.com/harshai07/Java-dsa/tree/master/0396-rotate-function) |
 | [0679-24-game](https://github.com/harshai07/Java-dsa/tree/master/0679-24-game) |
 | [1014-k-closest-points-to-origin](https://github.com/harshai07/Java-dsa/tree/master/1014-k-closest-points-to-origin) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/harshai07/Java-dsa/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshai07/Java-dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0217-contains-duplicate](https://github.com/harshai07/Java-dsa/tree/master/0217-contains-duplicate) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/harshai07/Java-dsa/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0396-rotate-function](https://github.com/harshai07/Java-dsa/tree/master/0396-rotate-function) |
 | [0406-queue-reconstruction-by-height](https://github.com/harshai07/Java-dsa/tree/master/0406-queue-reconstruction-by-height) |
 | [0679-24-game](https://github.com/harshai07/Java-dsa/tree/master/0679-24-game) |
 | [0853-most-profit-assigning-work](https://github.com/harshai07/Java-dsa/tree/master/0853-most-profit-assigning-work) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0062-unique-paths](https://github.com/harshai07/Java-dsa/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/harshai07/Java-dsa/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/harshai07/Java-dsa/tree/master/0070-climbing-stairs) |
+| [0396-rotate-function](https://github.com/harshai07/Java-dsa/tree/master/0396-rotate-function) |
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/harshai07/Java-dsa/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2708-find-the-string-with-lcp](https://github.com/harshai07/Java-dsa/tree/master/2708-find-the-string-with-lcp) |
 ## Union-Find
