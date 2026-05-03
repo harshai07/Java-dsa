@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/harshai07/Java-dsa/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harshai07/Java-dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0242-valid-anagram](https://github.com/harshai07/Java-dsa/tree/master/0242-valid-anagram) |
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/harshai07/Java-dsa/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/harshai07/Java-dsa/tree/master/0010-regular-expression-matching) |
 | [0203-remove-linked-list-elements](https://github.com/harshai07/Java-dsa/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/harshai07/Java-dsa/tree/master/0234-palindrome-linked-list) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/harshai07/Java-dsa/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/harshai07/Java-dsa/tree/master/0010-regular-expression-matching) |
 | [0062-unique-paths](https://github.com/harshai07/Java-dsa/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/harshai07/Java-dsa/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/harshai07/Java-dsa/tree/master/0070-climbing-stairs) |
