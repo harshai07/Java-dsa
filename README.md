@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harshai07/Java-dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/harshai07/Java-dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshai07/Java-dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/harshai07/Java-dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/harshai07/Java-dsa/tree/master/0217-contains-duplicate) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/harshai07/Java-dsa/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0396-rotate-function](https://github.com/harshai07/Java-dsa/tree/master/0396-rotate-function) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/harshai07/Java-dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0853-most-profit-assigning-work](https://github.com/harshai07/Java-dsa/tree/master/0853-most-profit-assigning-work) |
 | [0907-koko-eating-bananas](https://github.com/harshai07/Java-dsa/tree/master/0907-koko-eating-bananas) |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/harshai07/Java-dsa/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
