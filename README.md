@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0907-koko-eating-bananas](https://github.com/harshai07/Java-dsa/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/harshai07/Java-dsa/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/harshai07/Java-dsa/tree/master/1127-last-stone-weight) |
+| [1428-jump-game-iii](https://github.com/harshai07/Java-dsa/tree/master/1428-jump-game-iii) |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/harshai07/Java-dsa/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/harshai07/Java-dsa/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/harshai07/Java-dsa/tree/master/1663-detect-cycles-in-2d-grid) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0513-find-bottom-left-tree-value](https://github.com/harshai07/Java-dsa/tree/master/0513-find-bottom-left-tree-value) |
 | [0617-merge-two-binary-trees](https://github.com/harshai07/Java-dsa/tree/master/0617-merge-two-binary-trees) |
 | [0975-range-sum-of-bst](https://github.com/harshai07/Java-dsa/tree/master/0975-range-sum-of-bst) |
+| [1428-jump-game-iii](https://github.com/harshai07/Java-dsa/tree/master/1428-jump-game-iii) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/harshai07/Java-dsa/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/harshai07/Java-dsa/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 ## Binary Tree
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0226-invert-binary-tree](https://github.com/harshai07/Java-dsa/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/harshai07/Java-dsa/tree/master/0513-find-bottom-left-tree-value) |
 | [0617-merge-two-binary-trees](https://github.com/harshai07/Java-dsa/tree/master/0617-merge-two-binary-trees) |
+| [1428-jump-game-iii](https://github.com/harshai07/Java-dsa/tree/master/1428-jump-game-iii) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/harshai07/Java-dsa/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/harshai07/Java-dsa/tree/master/1757-minimum-jumps-to-reach-home) |
 ## Binary Search Tree
