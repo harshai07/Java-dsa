@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2107-find-unique-binary-string](https://github.com/harshai07/Java-dsa/tree/master/2107-find-unique-binary-string) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/harshai07/Java-dsa/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/harshai07/Java-dsa/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
+| [2634-minimum-common-value](https://github.com/harshai07/Java-dsa/tree/master/2634-minimum-common-value) |
 | [2639-separate-the-digits-in-an-array](https://github.com/harshai07/Java-dsa/tree/master/2639-separate-the-digits-in-an-array) |
 | [2708-find-the-string-with-lcp](https://github.com/harshai07/Java-dsa/tree/master/2708-find-the-string-with-lcp) |
 | [2721-sum-of-distances](https://github.com/harshai07/Java-dsa/tree/master/2721-sum-of-distances) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0907-koko-eating-bananas](https://github.com/harshai07/Java-dsa/tree/master/0907-koko-eating-bananas) |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/harshai07/Java-dsa/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/harshai07/Java-dsa/tree/master/1984-maximum-distance-between-a-pair-of-values) |
+| [2634-minimum-common-value](https://github.com/harshai07/Java-dsa/tree/master/2634-minimum-common-value) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/harshai07/Java-dsa/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/harshai07/Java-dsa/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 ## Hash Table
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1447-jump-game-iv](https://github.com/harshai07/Java-dsa/tree/master/1447-jump-game-iv) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/harshai07/Java-dsa/tree/master/1757-minimum-jumps-to-reach-home) |
 | [2107-find-unique-binary-string](https://github.com/harshai07/Java-dsa/tree/master/2107-find-unique-binary-string) |
+| [2634-minimum-common-value](https://github.com/harshai07/Java-dsa/tree/master/2634-minimum-common-value) |
 | [2721-sum-of-distances](https://github.com/harshai07/Java-dsa/tree/master/2721-sum-of-distances) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/harshai07/Java-dsa/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/harshai07/Java-dsa/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0234-palindrome-linked-list](https://github.com/harshai07/Java-dsa/tree/master/0234-palindrome-linked-list) |
 | [0853-most-profit-assigning-work](https://github.com/harshai07/Java-dsa/tree/master/0853-most-profit-assigning-work) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/harshai07/Java-dsa/tree/master/1984-maximum-distance-between-a-pair-of-values) |
+| [2634-minimum-common-value](https://github.com/harshai07/Java-dsa/tree/master/2634-minimum-common-value) |
 ## Linked List
 |  |
 | ------- |
