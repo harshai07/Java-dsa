@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/harshai07/Java-dsa/tree/master/0371-sum-of-two-integers) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/harshai07/Java-dsa/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/harshai07/Java-dsa/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Array
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2639-separate-the-digits-in-an-array](https://github.com/harshai07/Java-dsa/tree/master/2639-separate-the-digits-in-an-array) |
 | [2708-find-the-string-with-lcp](https://github.com/harshai07/Java-dsa/tree/master/2708-find-the-string-with-lcp) |
 | [2721-sum-of-distances](https://github.com/harshai07/Java-dsa/tree/master/2721-sum-of-distances) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/harshai07/Java-dsa/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/harshai07/Java-dsa/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/harshai07/Java-dsa/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/harshai07/Java-dsa/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2107-find-unique-binary-string](https://github.com/harshai07/Java-dsa/tree/master/2107-find-unique-binary-string) |
 | [2634-minimum-common-value](https://github.com/harshai07/Java-dsa/tree/master/2634-minimum-common-value) |
 | [2721-sum-of-distances](https://github.com/harshai07/Java-dsa/tree/master/2721-sum-of-distances) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/harshai07/Java-dsa/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/harshai07/Java-dsa/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/harshai07/Java-dsa/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 ## String
