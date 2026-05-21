@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2721-sum-of-distances](https://github.com/harshai07/Java-dsa/tree/master/2721-sum-of-distances) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/harshai07/Java-dsa/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/harshai07/Java-dsa/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/harshai07/Java-dsa/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/harshai07/Java-dsa/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/harshai07/Java-dsa/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 | [3849-equal-sum-grid-partition-i](https://github.com/harshai07/Java-dsa/tree/master/3849-equal-sum-grid-partition-i) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2634-minimum-common-value](https://github.com/harshai07/Java-dsa/tree/master/2634-minimum-common-value) |
 | [2721-sum-of-distances](https://github.com/harshai07/Java-dsa/tree/master/2721-sum-of-distances) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/harshai07/Java-dsa/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/harshai07/Java-dsa/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/harshai07/Java-dsa/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/harshai07/Java-dsa/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 ## String
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2708-find-the-string-with-lcp](https://github.com/harshai07/Java-dsa/tree/master/2708-find-the-string-with-lcp) |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/harshai07/Java-dsa/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3019-furthest-point-from-origin](https://github.com/harshai07/Java-dsa/tree/master/3019-furthest-point-from-origin) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/harshai07/Java-dsa/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3770-lexicographically-smallest-generated-string](https://github.com/harshai07/Java-dsa/tree/master/3770-lexicographically-smallest-generated-string) |
 ## Backtracking
 |  |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/harshai07/Java-dsa/tree/master/2550-words-within-two-edits-of-dictionary) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/harshai07/Java-dsa/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Combinatorics
 |  |
 | ------- |
