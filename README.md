@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/harshai07/Java-dsa/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/harshai07/Java-dsa/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/harshai07/Java-dsa/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [2001-jump-game-vii](https://github.com/harshai07/Java-dsa/tree/master/2001-jump-game-vii) |
 | [2107-find-unique-binary-string](https://github.com/harshai07/Java-dsa/tree/master/2107-find-unique-binary-string) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/harshai07/Java-dsa/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/harshai07/Java-dsa/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Prefix Sum
 |  |
 | ------- |
+| [2001-jump-game-vii](https://github.com/harshai07/Java-dsa/tree/master/2001-jump-game-vii) |
 | [2721-sum-of-distances](https://github.com/harshai07/Java-dsa/tree/master/2721-sum-of-distances) |
 | [3849-equal-sum-grid-partition-i](https://github.com/harshai07/Java-dsa/tree/master/3849-equal-sum-grid-partition-i) |
 ## Dynamic Programming
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0070-climbing-stairs](https://github.com/harshai07/Java-dsa/tree/master/0070-climbing-stairs) |
 | [0396-rotate-function](https://github.com/harshai07/Java-dsa/tree/master/0396-rotate-function) |
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/harshai07/Java-dsa/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
+| [2001-jump-game-vii](https://github.com/harshai07/Java-dsa/tree/master/2001-jump-game-vii) |
 | [2708-find-the-string-with-lcp](https://github.com/harshai07/Java-dsa/tree/master/2708-find-the-string-with-lcp) |
 | [3981-jump-game-ix](https://github.com/harshai07/Java-dsa/tree/master/3981-jump-game-ix) |
 ## Union-Find
@@ -379,4 +382,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [3019-furthest-point-from-origin](https://github.com/harshai07/Java-dsa/tree/master/3019-furthest-point-from-origin) |
+## Sliding Window
+|  |
+| ------- |
+| [2001-jump-game-vii](https://github.com/harshai07/Java-dsa/tree/master/2001-jump-game-vii) |
 <!---LeetCode Topics End-->
