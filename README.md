@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0010-regular-expression-matching](https://github.com/harshai07/Java-dsa/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harshai07/Java-dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0242-valid-anagram](https://github.com/harshai07/Java-dsa/tree/master/0242-valid-anagram) |
+| [1250-longest-common-subsequence](https://github.com/harshai07/Java-dsa/tree/master/1250-longest-common-subsequence) |
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/harshai07/Java-dsa/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/harshai07/Java-dsa/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/harshai07/Java-dsa/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0064-minimum-path-sum](https://github.com/harshai07/Java-dsa/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/harshai07/Java-dsa/tree/master/0070-climbing-stairs) |
 | [0396-rotate-function](https://github.com/harshai07/Java-dsa/tree/master/0396-rotate-function) |
+| [1250-longest-common-subsequence](https://github.com/harshai07/Java-dsa/tree/master/1250-longest-common-subsequence) |
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/harshai07/Java-dsa/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2001-jump-game-vii](https://github.com/harshai07/Java-dsa/tree/master/2001-jump-game-vii) |
 | [2708-find-the-string-with-lcp](https://github.com/harshai07/Java-dsa/tree/master/2708-find-the-string-with-lcp) |
