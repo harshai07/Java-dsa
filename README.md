@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/harshai07/Java-dsa/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/harshai07/Java-dsa/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/harshai07/Java-dsa/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3376-longest-common-suffix-queries](https://github.com/harshai07/Java-dsa/tree/master/3376-longest-common-suffix-queries) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/harshai07/Java-dsa/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/harshai07/Java-dsa/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 | [3849-equal-sum-grid-partition-i](https://github.com/harshai07/Java-dsa/tree/master/3849-equal-sum-grid-partition-i) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/harshai07/Java-dsa/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3019-furthest-point-from-origin](https://github.com/harshai07/Java-dsa/tree/master/3019-furthest-point-from-origin) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/harshai07/Java-dsa/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3376-longest-common-suffix-queries](https://github.com/harshai07/Java-dsa/tree/master/3376-longest-common-suffix-queries) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/harshai07/Java-dsa/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/harshai07/Java-dsa/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3770-lexicographically-smallest-generated-string](https://github.com/harshai07/Java-dsa/tree/master/3770-lexicographically-smallest-generated-string) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/harshai07/Java-dsa/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/harshai07/Java-dsa/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3376-longest-common-suffix-queries](https://github.com/harshai07/Java-dsa/tree/master/3376-longest-common-suffix-queries) |
 ## Combinatorics
 |  |
 | ------- |
