@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/harshai07/Java-dsa/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/harshai07/Java-dsa/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/harshai07/Java-dsa/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/harshai07/Java-dsa/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/harshai07/Java-dsa/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 | [4168-mirror-distance-of-an-integer](https://github.com/harshai07/Java-dsa/tree/master/4168-mirror-distance-of-an-integer) |
 ## Bit Manipulation
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/harshai07/Java-dsa/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3376-longest-common-suffix-queries](https://github.com/harshai07/Java-dsa/tree/master/3376-longest-common-suffix-queries) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/harshai07/Java-dsa/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/harshai07/Java-dsa/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/harshai07/Java-dsa/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 | [3849-equal-sum-grid-partition-i](https://github.com/harshai07/Java-dsa/tree/master/3849-equal-sum-grid-partition-i) |
 | [3981-jump-game-ix](https://github.com/harshai07/Java-dsa/tree/master/3981-jump-game-ix) |
