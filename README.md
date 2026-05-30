@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/harshai07/Java-dsa/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/harshai07/Java-dsa/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3376-longest-common-suffix-queries](https://github.com/harshai07/Java-dsa/tree/master/3376-longest-common-suffix-queries) |
+| [3435-block-placement-queries](https://github.com/harshai07/Java-dsa/tree/master/3435-block-placement-queries) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/harshai07/Java-dsa/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/harshai07/Java-dsa/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/harshai07/Java-dsa/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/harshai07/Java-dsa/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/harshai07/Java-dsa/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2634-minimum-common-value](https://github.com/harshai07/Java-dsa/tree/master/2634-minimum-common-value) |
+| [3435-block-placement-queries](https://github.com/harshai07/Java-dsa/tree/master/3435-block-placement-queries) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/harshai07/Java-dsa/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/harshai07/Java-dsa/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 ## Hash Table
@@ -319,10 +321,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/harshai07/Java-dsa/tree/master/0406-queue-reconstruction-by-height) |
+| [3435-block-placement-queries](https://github.com/harshai07/Java-dsa/tree/master/3435-block-placement-queries) |
 ## Segment Tree
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/harshai07/Java-dsa/tree/master/0406-queue-reconstruction-by-height) |
+| [3435-block-placement-queries](https://github.com/harshai07/Java-dsa/tree/master/3435-block-placement-queries) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
