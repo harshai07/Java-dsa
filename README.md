@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/harshai07/Java-dsa/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/harshai07/Java-dsa/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 | [3849-equal-sum-grid-partition-i](https://github.com/harshai07/Java-dsa/tree/master/3849-equal-sum-grid-partition-i) |
+| [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/harshai07/Java-dsa/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3981-jump-game-ix](https://github.com/harshai07/Java-dsa/tree/master/3981-jump-game-ix) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/harshai07/Java-dsa/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/harshai07/Java-dsa/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3435-block-placement-queries](https://github.com/harshai07/Java-dsa/tree/master/3435-block-placement-queries) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/harshai07/Java-dsa/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/harshai07/Java-dsa/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
+| [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/harshai07/Java-dsa/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2708-find-the-string-with-lcp](https://github.com/harshai07/Java-dsa/tree/master/2708-find-the-string-with-lcp) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/harshai07/Java-dsa/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3770-lexicographically-smallest-generated-string](https://github.com/harshai07/Java-dsa/tree/master/3770-lexicographically-smallest-generated-string) |
+| [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/harshai07/Java-dsa/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1829-maximum-units-on-a-truck](https://github.com/harshai07/Java-dsa/tree/master/1829-maximum-units-on-a-truck) |
 | [2245-destroying-asteroids](https://github.com/harshai07/Java-dsa/tree/master/2245-destroying-asteroids) |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/harshai07/Java-dsa/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
+| [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/harshai07/Java-dsa/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -174,6 +178,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0853-most-profit-assigning-work](https://github.com/harshai07/Java-dsa/tree/master/0853-most-profit-assigning-work) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/harshai07/Java-dsa/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2634-minimum-common-value](https://github.com/harshai07/Java-dsa/tree/master/2634-minimum-common-value) |
+| [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/harshai07/Java-dsa/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Linked List
 |  |
 | ------- |
