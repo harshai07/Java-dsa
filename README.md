@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/harshai07/Java-dsa/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/harshai07/Java-dsa/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/harshai07/Java-dsa/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
+| [4057-total-waviness-of-numbers-in-range-i](https://github.com/harshai07/Java-dsa/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 | [4168-mirror-distance-of-an-integer](https://github.com/harshai07/Java-dsa/tree/master/4168-mirror-distance-of-an-integer) |
 ## Bit Manipulation
 |  |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [3849-equal-sum-grid-partition-i](https://github.com/harshai07/Java-dsa/tree/master/3849-equal-sum-grid-partition-i) |
+| [4057-total-waviness-of-numbers-in-range-i](https://github.com/harshai07/Java-dsa/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2001-jump-game-vii](https://github.com/harshai07/Java-dsa/tree/master/2001-jump-game-vii) |
 | [2708-find-the-string-with-lcp](https://github.com/harshai07/Java-dsa/tree/master/2708-find-the-string-with-lcp) |
 | [3981-jump-game-ix](https://github.com/harshai07/Java-dsa/tree/master/3981-jump-game-ix) |
+| [4057-total-waviness-of-numbers-in-range-i](https://github.com/harshai07/Java-dsa/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 ## Union-Find
 |  |
 | ------- |
