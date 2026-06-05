@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/harshai07/Java-dsa/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/harshai07/Java-dsa/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/harshai07/Java-dsa/tree/master/4057-total-waviness-of-numbers-in-range-i) |
+| [4128-total-waviness-of-numbers-in-range-ii](https://github.com/harshai07/Java-dsa/tree/master/4128-total-waviness-of-numbers-in-range-ii) |
 | [4168-mirror-distance-of-an-integer](https://github.com/harshai07/Java-dsa/tree/master/4168-mirror-distance-of-an-integer) |
 ## Bit Manipulation
 |  |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2708-find-the-string-with-lcp](https://github.com/harshai07/Java-dsa/tree/master/2708-find-the-string-with-lcp) |
 | [3981-jump-game-ix](https://github.com/harshai07/Java-dsa/tree/master/3981-jump-game-ix) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/harshai07/Java-dsa/tree/master/4057-total-waviness-of-numbers-in-range-i) |
+| [4128-total-waviness-of-numbers-in-range-ii](https://github.com/harshai07/Java-dsa/tree/master/4128-total-waviness-of-numbers-in-range-ii) |
 ## Union-Find
 |  |
 | ------- |
