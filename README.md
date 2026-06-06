@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2634-minimum-common-value](https://github.com/harshai07/Java-dsa/tree/master/2634-minimum-common-value) |
 | [2639-separate-the-digits-in-an-array](https://github.com/harshai07/Java-dsa/tree/master/2639-separate-the-digits-in-an-array) |
 | [2708-find-the-string-with-lcp](https://github.com/harshai07/Java-dsa/tree/master/2708-find-the-string-with-lcp) |
+| [2714-left-and-right-sum-differences](https://github.com/harshai07/Java-dsa/tree/master/2714-left-and-right-sum-differences) |
 | [2721-sum-of-distances](https://github.com/harshai07/Java-dsa/tree/master/2721-sum-of-distances) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/harshai07/Java-dsa/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/harshai07/Java-dsa/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [2001-jump-game-vii](https://github.com/harshai07/Java-dsa/tree/master/2001-jump-game-vii) |
+| [2714-left-and-right-sum-differences](https://github.com/harshai07/Java-dsa/tree/master/2714-left-and-right-sum-differences) |
 | [2721-sum-of-distances](https://github.com/harshai07/Java-dsa/tree/master/2721-sum-of-distances) |
 | [3849-equal-sum-grid-partition-i](https://github.com/harshai07/Java-dsa/tree/master/3849-equal-sum-grid-partition-i) |
 ## Dynamic Programming
