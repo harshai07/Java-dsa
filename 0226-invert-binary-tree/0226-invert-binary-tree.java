@@ -15,13 +15,20 @@
  */
 class Solution {
     public TreeNode invertTree(TreeNode root) {
+        //base condtion 
         if(root==null) return null;
-        TreeNode temp = root.left;
-        root.left= root.right;
-        root.right= temp;
-        invertTree(root.left);
-        invertTree(root.right);
+        //intialize a stack with root 
+        Stack<TreeNode> stack = new Stack<>();
+        stack.push(root);
+        //while stack is not empty 
+        while(!stack.isEmpty()){
+            TreeNode node = stack.pop(); //pop node 
+            TreeNode temp = node.left; //swap it's left and right pointers 
+            node.left= node.right;
+            node.right= temp;
+            if (node.left!= null) stack.push(node.left); //if the left child exist pusht it to stack 
+            if(node.right!=null ) stack.push(node.right); //if the right child exist pusht it to stack 
+        }
         return root;
-        
     }
 }
