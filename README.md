@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/harshai07/Java-dsa/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/harshai07/Java-dsa/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/harshai07/Java-dsa/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/harshai07/Java-dsa/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/harshai07/Java-dsa/tree/master/0064-minimum-path-sum) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/harshai07/Java-dsa/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/harshai07/Java-dsa/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/harshai07/Java-dsa/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/harshai07/Java-dsa/tree/master/0234-palindrome-linked-list) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/harshai07/Java-dsa/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/harshai07/Java-dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshai07/Java-dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/harshai07/Java-dsa/tree/master/0234-palindrome-linked-list) |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/harshai07/Java-dsa/tree/master/0010-regular-expression-matching) |
+| [0042-trapping-rain-water](https://github.com/harshai07/Java-dsa/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/harshai07/Java-dsa/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/harshai07/Java-dsa/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/harshai07/Java-dsa/tree/master/0064-minimum-path-sum) |
@@ -423,4 +427,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [2001-jump-game-vii](https://github.com/harshai07/Java-dsa/tree/master/2001-jump-game-vii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/harshai07/Java-dsa/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
