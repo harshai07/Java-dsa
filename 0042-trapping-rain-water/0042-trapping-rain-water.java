@@ -1,6 +1,6 @@
 class Solution {
     public int trap(int[] height) {
-        int lb[]= new int[height.length];
+         int lb[]= new int[height.length];
         int rb[]=new int [height.length];
 
         lb[0]= height[0];
@@ -18,5 +18,6 @@ class Solution {
             waterTrapped+= potentalHeight-height[i];
         }
         return waterTrapped;
+        
     }
 }
