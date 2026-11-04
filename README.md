@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0070-climbing-stairs](https://github.com/harshai07/Java-dsa/tree/master/0070-climbing-stairs) |
 | [0371-sum-of-two-integers](https://github.com/harshai07/Java-dsa/tree/master/0371-sum-of-two-integers) |
 | [0396-rotate-function](https://github.com/harshai07/Java-dsa/tree/master/0396-rotate-function) |
+| [0412-fizz-buzz](https://github.com/harshai07/Java-dsa/tree/master/0412-fizz-buzz) |
 | [0679-24-game](https://github.com/harshai07/Java-dsa/tree/master/0679-24-game) |
 | [1014-k-closest-points-to-origin](https://github.com/harshai07/Java-dsa/tree/master/1014-k-closest-points-to-origin) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/harshai07/Java-dsa/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0010-regular-expression-matching](https://github.com/harshai07/Java-dsa/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harshai07/Java-dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0242-valid-anagram](https://github.com/harshai07/Java-dsa/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/harshai07/Java-dsa/tree/master/0412-fizz-buzz) |
 | [1250-longest-common-subsequence](https://github.com/harshai07/Java-dsa/tree/master/1250-longest-common-subsequence) |
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/harshai07/Java-dsa/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/harshai07/Java-dsa/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/harshai07/Java-dsa/tree/master/0412-fizz-buzz) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/harshai07/Java-dsa/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/harshai07/Java-dsa/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/harshai07/Java-dsa/tree/master/2265-partition-array-according-to-given-pivot) |
