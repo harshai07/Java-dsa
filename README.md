@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0907-koko-eating-bananas](https://github.com/harshai07/Java-dsa/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/harshai07/Java-dsa/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/harshai07/Java-dsa/tree/master/1127-last-stone-weight) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/harshai07/Java-dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1428-jump-game-iii](https://github.com/harshai07/Java-dsa/tree/master/1428-jump-game-iii) |
 | [1447-jump-game-iv](https://github.com/harshai07/Java-dsa/tree/master/1447-jump-game-iv) |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/harshai07/Java-dsa/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harshai07/Java-dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0853-most-profit-assigning-work](https://github.com/harshai07/Java-dsa/tree/master/0853-most-profit-assigning-work) |
 | [0907-koko-eating-bananas](https://github.com/harshai07/Java-dsa/tree/master/0907-koko-eating-bananas) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/harshai07/Java-dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/harshai07/Java-dsa/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/harshai07/Java-dsa/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2634-minimum-common-value](https://github.com/harshai07/Java-dsa/tree/master/2634-minimum-common-value) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0406-queue-reconstruction-by-height](https://github.com/harshai07/Java-dsa/tree/master/0406-queue-reconstruction-by-height) |
 | [0853-most-profit-assigning-work](https://github.com/harshai07/Java-dsa/tree/master/0853-most-profit-assigning-work) |
 | [1014-k-closest-points-to-origin](https://github.com/harshai07/Java-dsa/tree/master/1014-k-closest-points-to-origin) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/harshai07/Java-dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/harshai07/Java-dsa/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [1829-maximum-units-on-a-truck](https://github.com/harshai07/Java-dsa/tree/master/1829-maximum-units-on-a-truck) |
 | [2245-destroying-asteroids](https://github.com/harshai07/Java-dsa/tree/master/2245-destroying-asteroids) |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0148-sort-list](https://github.com/harshai07/Java-dsa/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/harshai07/Java-dsa/tree/master/0234-palindrome-linked-list) |
 | [0853-most-profit-assigning-work](https://github.com/harshai07/Java-dsa/tree/master/0853-most-profit-assigning-work) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/harshai07/Java-dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/harshai07/Java-dsa/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/harshai07/Java-dsa/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2634-minimum-common-value](https://github.com/harshai07/Java-dsa/tree/master/2634-minimum-common-value) |
