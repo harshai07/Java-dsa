@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2708-find-the-string-with-lcp](https://github.com/harshai07/Java-dsa/tree/master/2708-find-the-string-with-lcp) |
 | [2714-left-and-right-sum-differences](https://github.com/harshai07/Java-dsa/tree/master/2714-left-and-right-sum-differences) |
 | [2721-sum-of-distances](https://github.com/harshai07/Java-dsa/tree/master/2721-sum-of-distances) |
+| [2747-count-zero-request-servers](https://github.com/harshai07/Java-dsa/tree/master/2747-count-zero-request-servers) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/harshai07/Java-dsa/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/harshai07/Java-dsa/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/harshai07/Java-dsa/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2306-create-binary-tree-from-descriptions](https://github.com/harshai07/Java-dsa/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2634-minimum-common-value](https://github.com/harshai07/Java-dsa/tree/master/2634-minimum-common-value) |
 | [2721-sum-of-distances](https://github.com/harshai07/Java-dsa/tree/master/2721-sum-of-distances) |
+| [2747-count-zero-request-servers](https://github.com/harshai07/Java-dsa/tree/master/2747-count-zero-request-servers) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/harshai07/Java-dsa/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/harshai07/Java-dsa/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/harshai07/Java-dsa/tree/master/3405-count-the-number-of-special-characters-ii) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/harshai07/Java-dsa/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [1829-maximum-units-on-a-truck](https://github.com/harshai07/Java-dsa/tree/master/1829-maximum-units-on-a-truck) |
 | [2245-destroying-asteroids](https://github.com/harshai07/Java-dsa/tree/master/2245-destroying-asteroids) |
+| [2747-count-zero-request-servers](https://github.com/harshai07/Java-dsa/tree/master/2747-count-zero-request-servers) |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/harshai07/Java-dsa/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/harshai07/Java-dsa/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Two Pointers
@@ -434,6 +437,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [2001-jump-game-vii](https://github.com/harshai07/Java-dsa/tree/master/2001-jump-game-vii) |
+| [2747-count-zero-request-servers](https://github.com/harshai07/Java-dsa/tree/master/2747-count-zero-request-servers) |
 ## Monotonic Stack
 |  |
 | ------- |
