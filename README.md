@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0907-koko-eating-bananas](https://github.com/harshai07/Java-dsa/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/harshai07/Java-dsa/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/harshai07/Java-dsa/tree/master/1127-last-stone-weight) |
+| [1267-count-servers-that-communicate](https://github.com/harshai07/Java-dsa/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/harshai07/Java-dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1428-jump-game-iii](https://github.com/harshai07/Java-dsa/tree/master/1428-jump-game-iii) |
 | [1447-jump-game-iv](https://github.com/harshai07/Java-dsa/tree/master/1447-jump-game-iv) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0513-find-bottom-left-tree-value](https://github.com/harshai07/Java-dsa/tree/master/0513-find-bottom-left-tree-value) |
 | [0617-merge-two-binary-trees](https://github.com/harshai07/Java-dsa/tree/master/0617-merge-two-binary-trees) |
 | [0975-range-sum-of-bst](https://github.com/harshai07/Java-dsa/tree/master/0975-range-sum-of-bst) |
+| [1267-count-servers-that-communicate](https://github.com/harshai07/Java-dsa/tree/master/1267-count-servers-that-communicate) |
 | [1428-jump-game-iii](https://github.com/harshai07/Java-dsa/tree/master/1428-jump-game-iii) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/harshai07/Java-dsa/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/harshai07/Java-dsa/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0048-rotate-image](https://github.com/harshai07/Java-dsa/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/harshai07/Java-dsa/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/harshai07/Java-dsa/tree/master/0064-minimum-path-sum) |
+| [1267-count-servers-that-communicate](https://github.com/harshai07/Java-dsa/tree/master/1267-count-servers-that-communicate) |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/harshai07/Java-dsa/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/harshai07/Java-dsa/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/harshai07/Java-dsa/tree/master/1663-detect-cycles-in-2d-grid) |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0226-invert-binary-tree](https://github.com/harshai07/Java-dsa/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/harshai07/Java-dsa/tree/master/0513-find-bottom-left-tree-value) |
 | [0617-merge-two-binary-trees](https://github.com/harshai07/Java-dsa/tree/master/0617-merge-two-binary-trees) |
+| [1267-count-servers-that-communicate](https://github.com/harshai07/Java-dsa/tree/master/1267-count-servers-that-communicate) |
 | [1428-jump-game-iii](https://github.com/harshai07/Java-dsa/tree/master/1428-jump-game-iii) |
 | [1447-jump-game-iv](https://github.com/harshai07/Java-dsa/tree/master/1447-jump-game-iv) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/harshai07/Java-dsa/tree/master/1663-detect-cycles-in-2d-grid) |
@@ -410,6 +414,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Union-Find
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/harshai07/Java-dsa/tree/master/1267-count-servers-that-communicate) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/harshai07/Java-dsa/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/harshai07/Java-dsa/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [2708-find-the-string-with-lcp](https://github.com/harshai07/Java-dsa/tree/master/2708-find-the-string-with-lcp) |
@@ -434,6 +439,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Counting
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/harshai07/Java-dsa/tree/master/1267-count-servers-that-communicate) |
 | [3019-furthest-point-from-origin](https://github.com/harshai07/Java-dsa/tree/master/3019-furthest-point-from-origin) |
 ## Sliding Window
 |  |
