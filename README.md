@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0679-24-game](https://github.com/harshai07/Java-dsa/tree/master/0679-24-game) |
 | [1014-k-closest-points-to-origin](https://github.com/harshai07/Java-dsa/tree/master/1014-k-closest-points-to-origin) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/harshai07/Java-dsa/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/harshai07/Java-dsa/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/harshai07/Java-dsa/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/harshai07/Java-dsa/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/harshai07/Java-dsa/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/harshai07/Java-dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1428-jump-game-iii](https://github.com/harshai07/Java-dsa/tree/master/1428-jump-game-iii) |
 | [1447-jump-game-iv](https://github.com/harshai07/Java-dsa/tree/master/1447-jump-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/harshai07/Java-dsa/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/harshai07/Java-dsa/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/harshai07/Java-dsa/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/harshai07/Java-dsa/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/harshai07/Java-dsa/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2001-jump-game-vii](https://github.com/harshai07/Java-dsa/tree/master/2001-jump-game-vii) |
 | [2714-left-and-right-sum-differences](https://github.com/harshai07/Java-dsa/tree/master/2714-left-and-right-sum-differences) |
 | [2721-sum-of-distances](https://github.com/harshai07/Java-dsa/tree/master/2721-sum-of-distances) |
@@ -409,6 +412,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0396-rotate-function](https://github.com/harshai07/Java-dsa/tree/master/0396-rotate-function) |
 | [1250-longest-common-subsequence](https://github.com/harshai07/Java-dsa/tree/master/1250-longest-common-subsequence) |
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/harshai07/Java-dsa/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/harshai07/Java-dsa/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2001-jump-game-vii](https://github.com/harshai07/Java-dsa/tree/master/2001-jump-game-vii) |
 | [2708-find-the-string-with-lcp](https://github.com/harshai07/Java-dsa/tree/master/2708-find-the-string-with-lcp) |
 | [3981-jump-game-ix](https://github.com/harshai07/Java-dsa/tree/master/3981-jump-game-ix) |
