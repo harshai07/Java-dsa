@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/harshai07/Java-dsa/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0396-rotate-function](https://github.com/harshai07/Java-dsa/tree/master/0396-rotate-function) |
 | [0406-queue-reconstruction-by-height](https://github.com/harshai07/Java-dsa/tree/master/0406-queue-reconstruction-by-height) |
+| [0542-01-matrix](https://github.com/harshai07/Java-dsa/tree/master/0542-01-matrix) |
 | [0679-24-game](https://github.com/harshai07/Java-dsa/tree/master/0679-24-game) |
 | [0853-most-profit-assigning-work](https://github.com/harshai07/Java-dsa/tree/master/0853-most-profit-assigning-work) |
 | [0907-koko-eating-bananas](https://github.com/harshai07/Java-dsa/tree/master/0907-koko-eating-bananas) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0048-rotate-image](https://github.com/harshai07/Java-dsa/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/harshai07/Java-dsa/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/harshai07/Java-dsa/tree/master/0064-minimum-path-sum) |
+| [0542-01-matrix](https://github.com/harshai07/Java-dsa/tree/master/0542-01-matrix) |
 | [1267-count-servers-that-communicate](https://github.com/harshai07/Java-dsa/tree/master/1267-count-servers-that-communicate) |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/harshai07/Java-dsa/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/harshai07/Java-dsa/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0199-binary-tree-right-side-view](https://github.com/harshai07/Java-dsa/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/harshai07/Java-dsa/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/harshai07/Java-dsa/tree/master/0513-find-bottom-left-tree-value) |
+| [0542-01-matrix](https://github.com/harshai07/Java-dsa/tree/master/0542-01-matrix) |
 | [0617-merge-two-binary-trees](https://github.com/harshai07/Java-dsa/tree/master/0617-merge-two-binary-trees) |
 | [1267-count-servers-that-communicate](https://github.com/harshai07/Java-dsa/tree/master/1267-count-servers-that-communicate) |
 | [1428-jump-game-iii](https://github.com/harshai07/Java-dsa/tree/master/1428-jump-game-iii) |
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0064-minimum-path-sum](https://github.com/harshai07/Java-dsa/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/harshai07/Java-dsa/tree/master/0070-climbing-stairs) |
 | [0396-rotate-function](https://github.com/harshai07/Java-dsa/tree/master/0396-rotate-function) |
+| [0542-01-matrix](https://github.com/harshai07/Java-dsa/tree/master/0542-01-matrix) |
 | [1250-longest-common-subsequence](https://github.com/harshai07/Java-dsa/tree/master/1250-longest-common-subsequence) |
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/harshai07/Java-dsa/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/harshai07/Java-dsa/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
