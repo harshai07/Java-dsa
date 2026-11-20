@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/harshai07/Java-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harshai07/Java-dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harshai07/Java-dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/harshai07/Java-dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/harshai07/Java-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/harshai07/Java-dsa/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harshai07/Java-dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0242-valid-anagram](https://github.com/harshai07/Java-dsa/tree/master/0242-valid-anagram) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/harshai07/Java-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2001-jump-game-vii](https://github.com/harshai07/Java-dsa/tree/master/2001-jump-game-vii) |
 | [2747-count-zero-request-servers](https://github.com/harshai07/Java-dsa/tree/master/2747-count-zero-request-servers) |
 ## Monotonic Stack
